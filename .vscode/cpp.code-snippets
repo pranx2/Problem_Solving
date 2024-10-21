@@ -16,19 +16,6 @@
 	// 	"description": "Log output to console"
 	// }
 
-"main.cpp": {
-		"scope": "",
-		"prefix": "cpp",
-		"body": [
-			"#include<bits/stdc++.h>",
-			"using namespace std;",
-			"int main(){",
-			"$0",
-				"return 0;",
-			"}",
-		],
-		"description": "C++ main file with headerfile."
-	},
 "CP.cpp": {
 		"scope": "",
 		"prefix": "CPC",
